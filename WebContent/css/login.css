@@ -1,0 +1,31 @@
+@charset "UTF-8";
+
+
+*{
+	font-family: 'Single Day', cursive;
+}
+main {
+	margin-top: 150px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+}
+
+section {
+	margin-top: 10px;
+	text-align: center;
+}
+
+input {
+	width: 200px;
+}
+
+.btn {
+	margin-top: 10px;
+	width: 200px;
+}
+
+.join {
+	font-size: 20px;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}

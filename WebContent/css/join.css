@@ -1,0 +1,27 @@
+@charset "UTF-8";
+
+*{
+	font-family: 'Single Day', cursive;
+}
+
+.logo {
+	margin-top: 30px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+}
+
+h3 {
+	margin-top:20px;
+	text-align: center;
+}
+
+main {
+	text-align: center;
+}
+
+.btn {
+	width: 200px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
