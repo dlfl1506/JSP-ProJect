@@ -61,7 +61,7 @@ CREATE TABLE reply(
 ) engine=InnoDB default charset=utf8;
 ```
 
-## ⭕홈페이지 기능
+## ⭕ 홈페이지 기능
 - 메인화면 
 ![Screenshot_12](https://user-images.githubusercontent.com/74044212/107005754-8447f200-67d3-11eb-925c-bb1f70c8827f.png)
 
